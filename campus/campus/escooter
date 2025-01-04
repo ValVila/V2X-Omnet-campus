@@ -1,0 +1,4 @@
+<additional>
+    <vType id="escooter" width="0.4" length="1.1" height="1.2" minGap="1.5" accel="2" decel="4" emergencyDecel="7" maxSpeed="20" speedDev="0.1" vClass="moped"/>
+    
+</additional>
