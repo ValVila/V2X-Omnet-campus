@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
+
+    <input>
+        <net-file value="campus.net.xml"/>
+        <route-files value="campus.rou.xml"/>
+        <additional-files value="collision_settings.add.xml"/>
+    </input>
+    
+    <time>
+    	<begin value="0"/>
+    	<end value="1000"/>
+    </time>
+
+    <fcd-output value="fcd_output.xml"/>
+    <tripinfo-output value="tripinfo_output.xml"/>
+    
+
+</configuration>
