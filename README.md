@@ -95,6 +95,3 @@ This project is part of a thesis focusing on GNSS vs. GPS V2X communication with
 
 3. **Analyze the Results**:
    - After the simulation completes, the files in the `results` directory correspond to the logs and 'fcd_output.xml' and 'tripinfo_output.xml' for the floating car data and trip data so you can analyze the output using the provided Jupyter Notebooks under Python notebook scripts.
-
-## License
-
